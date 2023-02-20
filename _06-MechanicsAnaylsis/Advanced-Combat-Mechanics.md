@@ -7,13 +7,13 @@ has_children: true
 description: Advanced Combat Analysis
 ---
 
-This Page was intended to be a reference guide to enable the player to be able to work out how the heck to kill some things in Wildlander. It Kinda grew from there to include all sorts of reference material from Requiem so that players wouldn't have to go look up a billion & one perks, spells and the like to work out what the enemies were shooting at them. 
+This page was intended to be a reference guide to enable the player to be able to work out how the heck to kill some things in Wildlander. It Kinda grew from there to include all sorts of reference material from Requiem so that players wouldn't have to go look up a billion & one perks, spells and the like to work out what the enemies were shooting at them. 
 
-This guide is broken up into several sections -  Bandits / Mages / Forsworn / Necromancers will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list, all of which have different perks, weapons, armor. The next section contains reference material to identify weaknesses of the armor specific human type enemies can do and the weapons they use.
+This guide is broken up into several sections -  Bandits / Mages / Forsworn / Necromancers will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list, all of which have different perks, weapons & armor. The next section contains reference material to identify weaknesses of the armor specific human type enemies can do and the weapons they use.
 
-Vampires Will be covered, but not in-depth as like bandits they have a lot of variations of Armor, weapons and base stats.
+Vampires will be covered, but not in-depth as like bandits they have a lot of variations of armor, weapons and base stats.
 
-Ghosts and Dragur will only be in summary form for the various types. They will not have detailed breakdowns as various types of these NPC all look the same, but have differing stats. 
+Ghosts and Draugr will only be in summary form for the various types. They will not have detailed breakdowns as various types of these NPC's all look the same, but have differing stats. 
 
 ## Humanoid Enemies 
 
@@ -29,13 +29,13 @@ For the Afflicted, the only difference between a Bandit and them is the addition
 Level/Health/Stamina/Magic if the creature comes in different sizes but same base creature. 
 
 **Basic Stats**
-Movement Speed, Melee/Ranged damage or spells that the Enemy can cast, Standard armor, Magical armor, Enemy ability to penetrate your armor, If its has health regeneration, diseases or can knock the player down.
+Movement Speed, Melee/Ranged damage or spells that the Enemy can cast, Standard armor, Magical armor, Enemy ability to penetrate your armor, if it has health regeneration, diseases or can knock the player down.
 
 **Weapon Protection**
 Bonus armor that the Enemy gains if attacked by weapon damage types.
  
 **Resistances & Weaknesses**
-If the Enemy has protection or vulnerability to Fire/Frost/Shock/Poison, If the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy has any additional protections - E.g Drain life, Unrelenting force.
+If the Enemy has protection or vulnerability to Fire/Frost/Shock/Poison, if the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy has any additional protections - E.g Drain life, Unrelenting force.
 
 **Material Protection**
 If the Enemy has protection or vulnerability to Weapon materials such as Silver or Daedric, or if they take reduced damage from conventional materials.
@@ -44,7 +44,7 @@ If the Enemy has protection or vulnerability to Weapon materials such as Silver 
 If the Enemy has protection from Damage types, will also contain damage reduction by type.
 
 **Additional Perks**
-Any additional perks that the Enemy may have which affects game play.
+Any additional perks that the Enemy may have which affects gameplay.
 
 ### The Guides 
 
@@ -66,7 +66,7 @@ Any additional perks that the Enemy may have which affects game play.
               
             Ash Guardian • Flame Atronach • Frost Atronach • Lurker • Seeker • Storm Atronach • The Slighted • Dremora
             
-[Dragons](/06-MechanicsAnaylsis/AdvancedCombatMecanics/Dragons) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
+[Dragons](/06-MechanicsAnaylsis/AdvancedCombatMecanics/Dragons) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim.
               
             Fire • Fire Spectral Dragon •  Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax 
             • Vulthuryol  • Krosulhah • Naaslaarum • Sahrotaar • Voslaarum         
